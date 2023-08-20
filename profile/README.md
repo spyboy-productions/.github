@@ -1,4 +1,9 @@
-### Crafting ideas into reality (^^)
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+       Crafting ideas into reality!!                      
+    ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+    (\__/) || 
+    (•ㅅ•) || 
+    / 　 づ
 
 ---
 
