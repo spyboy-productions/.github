@@ -19,5 +19,5 @@
 
 ---
 
-#### Join our Cybersecurity Discord server [join here](https://discord.gg/ZChEmMwE8d)
+#### Our Cybersecurity Discord Server [Join & Chat Here](https://discord.gg/ZChEmMwE8d)
 [![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
