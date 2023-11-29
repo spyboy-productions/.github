@@ -4,7 +4,7 @@
     (\__/) || 
     (•ㅅ•)  | 
     / 　 づ
-##### Open source projects:
+##### Open Source Projects:
 
 - [`R4ven`](https://github.com/spyboy-productions/r4ven) Track the accurate location of Mobile/Pc using social engineering.
 
@@ -18,7 +18,7 @@
 
 - [`CloakQuest3r`](https://github.com/spyboy-productions/CloakQuest3r) Uncover the true IP address of websites safeguarded by Cloudflare.
 
-##### Other projects:
+##### Other Awesome Projects:
 
 - [`Spyo`](https://top.gg/bot/877644741339144244) Cybersecurity Discord bot that comes with OSINT, cypher, and utility tools and runs CTF with the leaderboard and certifications. 4k+ server
 - [`spyboy blog`](https://spyboy.blog/) Free cybersecurity tutorials. 10 million+ hits
