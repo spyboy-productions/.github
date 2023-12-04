@@ -20,6 +20,8 @@
 
 - [**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) `Boost website hits` `Proxy Rotation Testing` `Web Scraping Testing` `DDOS Tool`
 
+<h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
+
 ##### Closed Source Projects:
 
 - [**Spyo**](https://top.gg/bot/877644741339144244) `Cybersecurity Discord bot` that comes with `OSINT`, `cypher`, and utility tools and runs `CTF` with the leaderboard and certifications. `4k+ server`
