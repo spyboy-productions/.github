@@ -18,6 +18,8 @@
 
 - [**CloakQuest3r**](https://github.com/spyboy-productions/CloakQuest3r) `Uncover` the true `IP address` of websites safeguarded by Cloudflare.
 
+- [**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) `Boost website hits` `Proxy Rotation Testing` `Web Scraping Testing` `DDOS Tool`
+
 ##### Closed Source Projects:
 
 - [**Spyo**](https://top.gg/bot/877644741339144244) `Cybersecurity Discord bot` that comes with `OSINT`, `cypher`, and utility tools and runs `CTF` with the leaderboard and certifications. `4k+ server`
