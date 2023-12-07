@@ -20,6 +20,8 @@
 
 - [**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) `Boost website hits` `Proxy Rotation Testing` `Web Scraping Testing` `DDOS Tool`
 
+- [**Valid8Proxy**](https://github.com/spyboy-productions/Valid8Proxy) Tool designed for `fetching, validating, and storing working proxies`.
+
 <h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
 
 ##### Closed Source Projects:
