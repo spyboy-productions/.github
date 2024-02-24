@@ -10,6 +10,8 @@
 
 - [**CloakQuest3r**](https://github.com/spyboy-productions/CloakQuest3r) `Uncover` the true `IP address` of websites safeguarded by Cloudflare.
 
+- [**Valid8Proxy**](https://github.com/spyboy-productions/Valid8Proxy) Tool designed for `fetching, validating, and storing working proxies`.
+
 - [**Facad1ng**](https://github.com/spyboy-productions/Facad1ng) Mask(hide) `phishing URL` using social engineering.
 
 - [**WebSecProbe**](https://github.com/spyboy-productions/WebSecProbe) Bypass `403`.
@@ -19,8 +21,6 @@
 - [**Unve1ler**](https://github.com/spyboy-productions/unve1ler) `Find people` using `usernames, images, and email` (in development).
 
 - [**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) `Boost website hits` `Proxy Rotation Testing` `Web Scraping Testing` `DDOS Tool`
-
-- [**Valid8Proxy**](https://github.com/spyboy-productions/Valid8Proxy) Tool designed for `fetching, validating, and storing working proxies`.
 
 <h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
 
