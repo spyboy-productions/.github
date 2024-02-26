@@ -20,7 +20,7 @@
 
 - [**Unve1ler**](https://github.com/spyboy-productions/unve1ler) `Find people` using `usernames, images, and email` (in development).
 
-- [**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) `Boost website hits` `Proxy Rotation Testing` `Web Scraping Testing` `DOS Tool`
+- [**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) `Boost website hits` `Proxy Rotation Testing` `Web Scraping Testing` `DDOS Tool`
 
 <h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
 
