@@ -28,7 +28,7 @@
 
 ##### Closed Source Projects:
 
-- [**Spyo**](https://top.gg/bot/877644741339144244) `Cybersecurity Discord bot` that comes with `OSINT`, `cypher`, and utility tools and runs `CTF` with the leaderboard and certifications. `4k+ server`
+- [**Spyo**](https://top.gg/bot/877644741339144244) `Cybersecurity Discord bot` that comes with `OSINT`, `cypher`, and utility tools and runs `CTF` with the leaderboard and certifications. `5k+ server`
 - [**Spyboy blog**](https://spyboy.blog/) `Free` cybersecurity tutorials. `10 million+` hits
 - [**Android apps**](https://play.google.com/store/apps/dev?id=6188034454598466210) `cybersecurity` and `programming` related apps
 ---
