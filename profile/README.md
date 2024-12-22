@@ -24,6 +24,8 @@
   
 - [**M474**](https://github.com/spyboy-productions/M474) Changing `MAC addresses`, `randomizing internal IP addresses`, and `renewing IP addresses`.
 
+- [**Quot3w4ll**](https://github.com/spyboy-productions/Quot3w4ll) Automatically set a `new quote` as the `wallpaper` every time you `start up` `Windows`.
+
 <h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
 
 ##### Closed Source Projects:
