@@ -37,3 +37,7 @@
 
 #### Our Cybersecurity Discord Server [Join & Chat Here](https://discord.gg/ZChEmMwE8d)
 [![Discord Server](https://discord.com/api/guilds/726495265330298973/embed.png)](https://discord.gg/ZChEmMwE8d)
+
+<h3 align="left">
+  <a href="https://discord.gg/ZChEmMwE8d"><img src="https://raw.githubusercontent.com/mjorritsma/public-images/main/Discord-Button.png" height="40" alt="Join Discord"></a> <a href="https://twitter.com/itisspyboy"><img src="https://raw.githubusercontent.com/mjorritsma/public-images/main/X-Button.png" height="40" alt="Follow Twitter"></a>
+</h3>
