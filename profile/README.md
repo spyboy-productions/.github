@@ -30,7 +30,7 @@
   
 - [**M474**](https://github.com/spyboy-productions/M474) Changing `MAC addresses`, `randomizing internal IP addresses`, and `renewing IP addresses`.
 
-- [**CrabCrypt**](https://github.com/spyboy-productions/CrabCrypt) Any file encryption tool with GUI, `encrypt` and `decrypt` any file.
+- [**CrabCrypt**](https://github.com/spyboy-productions/CrabCrypt) `Encrypt` and `Decrypt` any file with GUI.
 
 - [**Quot3w4ll**](https://github.com/spyboy-productions/Quot3w4ll) Automatically set a `new quote` as the `wallpaper` every time you `start up` `Windows`.
 
