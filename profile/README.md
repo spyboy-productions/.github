@@ -32,6 +32,8 @@
 
 - [**CrabCrypt**](https://github.com/spyboy-productions/CrabCrypt) `Encrypt` and `Decrypt` any file with GUI.
 
+- [**ObfuXtreme**](https://github.com/spyboy-productions/ObfuXtreme) Advanced `Python Code` `Obfuscation Tool`
+
 - [**CamXploit**](https://github.com/spyboy-productions/CamXploit) `Check if an IP address` is `hosting` an `exposed CCTV camera`.
 
 - [**Quot3w4ll**](https://github.com/spyboy-productions/Quot3w4ll) Automatically set a `new quote` as the `wallpaper` every time you `start up` `Windows`.
