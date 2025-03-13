@@ -12,31 +12,31 @@
     / 　 づ
 ##### Our Open Source Projects:
 
-- [**R4ven**](https://github.com/spyboy-productions/r4ven) `Track` the accurate `location` of Mobile/Pc using social engineering.
+- [**R4ven**](https://github.com/spyboy-productions/r4ven) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/r4ven?style=social) `Track` the accurate `location` of Mobile/Pc using social engineering.
 
-- [**CloakQuest3r**](https://github.com/spyboy-productions/CloakQuest3r) `Uncover` the true `IP address` of websites safeguarded by Cloudflare.
+- [**CloakQuest3r**](https://github.com/spyboy-productions/CloakQuest3r) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CloakQuest3r?style=social) `Uncover` the true `IP address` of websites safeguarded by Cloudflare.
 
-- [**Valid8Proxy**](https://github.com/spyboy-productions/Valid8Proxy) Tool designed for `fetching, validating, and storing working proxies`.
+- [**Valid8Proxy**](https://github.com/spyboy-productions/Valid8Proxy) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Valid8Proxy?style=social) Tool designed for `fetching, validating, and storing working proxies`.
 
-- [**Facad1ng**](https://github.com/spyboy-productions/Facad1ng) Mask(hide) `phishing URL` using social engineering.
+- [**Facad1ng**](https://github.com/spyboy-productions/Facad1ng) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Facad1ng?style=social) Mask(hide) `phishing URL` using social engineering.
 
-- [**WebSecProbe**](https://github.com/spyboy-productions/WebSecProbe) Bypass `403`.
+- [**WebSecProbe**](https://github.com/spyboy-productions/WebSecProbe) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/WebSecProbe?style=social) Bypass `403`.
 
-- [**Omnisci3nt**](https://github.com/spyboy-productions/omnisci3nt) Complete `Web Reconnaissance` Tool.
+- [**Omnisci3nt**](https://github.com/spyboy-productions/omnisci3nt) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/omnisci3nt?style=social) Complete `Web Reconnaissance` Tool.
 
-- [**Unve1ler**](https://github.com/spyboy-productions/unve1ler) `Find people` using `usernames, images, and email`.
+- [**Unve1ler**](https://github.com/spyboy-productions/unve1ler) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/unve1ler?style=social) `Find people` using `usernames, images, and email`.
 
-- [**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) `Boost website hits` `Proxy Rotation Testing` `Web Scraping Testing` `DDOS Tool`
-  
-- [**M474**](https://github.com/spyboy-productions/M474) Changing `MAC addresses`, `randomizing internal IP addresses`, and `renewing IP addresses`.
+- [**PhantomCrawler**](https://github.com/spyboy-productions/PhantomCrawler) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/PhantomCrawler?style=social) `Boost website hits` `Proxy Rotation Testing` `Web Scraping Testing` `DDOS Tool`
 
-- [**CrabCrypt**](https://github.com/spyboy-productions/CrabCrypt) `Encrypt` and `Decrypt` any file with GUI.
+- [**M474**](https://github.com/spyboy-productions/M474) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/M474?style=social) Changing `MAC addresses`, `randomizing internal IP addresses`, and `renewing IP addresses`.
 
-- [**ObfuXtreme**](https://github.com/spyboy-productions/ObfuXtreme) Advanced `Python Code` `Obfuscation Tool`
+- [**CrabCrypt**](https://github.com/spyboy-productions/CrabCrypt) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CrabCrypt?style=social) `Encrypt` and `Decrypt` any file with GUI.
 
-- [**CamXploit**](https://github.com/spyboy-productions/CamXploit) `Check if an IP address` is `hosting` an `exposed CCTV camera`.
+- [**ObfuXtreme**](https://github.com/spyboy-productions/ObfuXtreme) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/ObfuXtreme?style=social) Advanced `Python Code` `Obfuscation Tool`
 
-- [**Quot3w4ll**](https://github.com/spyboy-productions/Quot3w4ll) Automatically set a `new quote` as the `wallpaper` every time you `start up` `Windows`.
+- [**CamXploit**](https://github.com/spyboy-productions/CamXploit) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CamXploit?style=social) `Check if an IP address` is `hosting` an `exposed CCTV camera`.
+
+- [**Quot3w4ll**](https://github.com/spyboy-productions/Quot3w4ll) ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Quot3w4ll?style=social) Automatically set a `new quote` as the `wallpaper` every time you `start up` `Windows`.
 
 <h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
 
