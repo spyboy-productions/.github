@@ -10,9 +10,6 @@
     (\__/) || 
     (•ㅅ•)  | 
     / 　 づ
-
-Got it! You want your open-source projects list formatted as a table like in the image. I'll format your content accordingly. Here’s the properly structured table:
-
 ---
 
 ### 🟢 Our Open Source Projects:
