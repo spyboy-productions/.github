@@ -10,9 +10,7 @@
     (\__/) || 
     (•ㅅ•)  | 
     / 　 づ
----
-
-### 🟢 Our Open Source Projects:
+<h2 align="center">🟢 Our Open Source Projects:<h4/>
 
 | Title | Description | Stars | Forks |
 |-------|------------|-------|-------|
@@ -30,9 +28,9 @@
 | [**CamXploit**](https://github.com/spyboy-productions/CamXploit) | `Check if an IP address` is `hosting` an `exposed CCTV camera`. | ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/CamXploit?style=social) | ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/CamXploit?style=social) |
 | [**Quot3w4ll**](https://github.com/spyboy-productions/Quot3w4ll) | Automatically set a `new quote` as the `wallpaper` every time you `start up` `Windows`. | ![GitHub stars](https://img.shields.io/github/stars/spyboy-productions/Quot3w4ll?style=social) | ![GitHub forks](https://img.shields.io/github/forks/spyboy-productions/Quot3w4ll?style=social) |
 
----
-
 <h4 align="center">If you find the repositories useful, please consider giving them a star ⭐️. Thank you!<h4/>
+
+---
 
 ##### Closed Source Projects:
 
