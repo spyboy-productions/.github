@@ -49,3 +49,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=monospace&size=15&duration=3000&pause=0&color=FF0000&width=1000&height=60&lines=Everything+Can+Be+Hacked!;Everything+Is+Vulnerable!" alt="Matrix">
 </div>
+
+[![Threads](https://img.shields.io/badge/Threads-%23E4405F.svg?&style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@ohitsspyboy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ohitsspyboy/)
+[![🌍 Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://spyboy.in/)
+[![📝 Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://spyboy.blog/)
+[![📱 Play Store](https://img.shields.io/badge/PlayStore-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6188034454598466210)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itisspyboy)
