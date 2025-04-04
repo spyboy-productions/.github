@@ -6,7 +6,7 @@
 
     (\__/)  
     (•ㅅ•)   
-    / 　 づ Crafting ideas! 
+    / 　 づ Cr4ft!ng !d3as
 <h2 align="center">🟢 Our Open Source Projects:<h4/>
 
 | Title | Description | Stars | Forks |
